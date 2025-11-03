@@ -58,7 +58,6 @@ My goal is to contribute to a safer cyberspace through continuous learning and r
 
 <img width="697" height="868" alt="testportal cyber hub lvl" src="https://github.com/user-attachments/assets/31208b24-7778-4c1c-a235-a958ea1738ad" />
 
-🔗 [Verify Result](https://www.testportal.net/exam/test-result.html?a=IMSQ70bBSfQ8BThcOaRyikGNGkMi66pgwS9oI4Qc1MxRtHlOAYFcQyxroZMi8JfDLyUq2EY016Bn00myiyxMQjz88qI-cBJPuyjMAZlVqHFT&tm=IJ2Caz6uXRZEvZ5Y4T5X841OxJhBgrEsytUuljfUWZi_aJRN-v-1HezAlqBSwrrtkQ)
 
 
 
