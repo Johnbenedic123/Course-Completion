@@ -43,8 +43,8 @@ My goal is to contribute to a safer cyberspace through continuous learning and r
   - Offensive security and exploitation  
   - Vulnerability assessment  
   - Ethical hacking tools and frameworks  
+<img width="1033" height="791" alt="cisco eh" src="https://github.com/user-attachments/assets/488acbc7-8768-4dbe-b1b5-abf756e9a30a" />
 
-![CISCO cyber](https://github.com/user-attachments/assets/af1810ac-945f-4a82-b9da-7255afca0309)
 
 
 ---
