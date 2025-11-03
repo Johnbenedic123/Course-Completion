@@ -102,7 +102,7 @@ My goal is to contribute to a safer cyberspace through continuous learning and r
 
 **Name:** J. John Benedict  
 **Email:** [j.johnbenedict123@gmail.com](mailto:j.johnbenedict123@gmail.com)  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**GitHub:** [github.com/johnbenedic123](https://github.com/yourusername)
 
 ---
 
