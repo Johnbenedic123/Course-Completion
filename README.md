@@ -78,16 +78,71 @@ My goal is to contribute to a safer cyberspace through continuous learning and r
 
 ---
 
-## 🧩 Summary
 
-| Certification / Program | Issuer | Date | Status |
-|--------------------------|--------|------|--------|
-| Cisco Cybersecurity Essentials | Cisco | Jun 30, 2025 | ✅ Completed |
-| Cisco Ethical Hacker | Cisco | Jul 03, 2025 | ✅ Completed |
-| Cyber Hub Level 1 Exam | TestPortal | Jul 05, 2025 | ✅ Passed |
-| Puducherry Police Internship | Puducherry Police | Jul 05, 2025 | ✅ Completed |
+
+### 5. National Level Technical Symposium – FLINT 2K'26
+**Institution:** Mahendra College of Engineering  
+**Department:** Information Technology  
+**Event:** Paper Presentation  
+**Date:** March 13, 2026  
+
+Successfully participated in the National Level Technical Symposium **FLINT 2K'26** and presented my paper in the Paper Presentation event.
 
 ---
+
+### 6. VARNAM'26 – AI No Code Connect
+**Institution:** Karpagam Institute of Technology  
+**Event:** AI No Code Connect  
+**Date:** February 03 – 07, 2026  
+
+Participated in **AI No Code Connect** during the National Level Sports, Techno & Cultural Fest **VARNAM'26**.
+
+---
+
+### 7. VARNAM'26 – QueryVerse'26
+**Institution:** Karpagam Institute of Technology  
+**Event:** QueryVerse'26  
+**Date:** February 03 – 07, 2026  
+
+Participated in **QueryVerse'26** during the National Level Sports, Techno & Cultural Fest **VARNAM'26**.
+
+---
+
+## Patent Achievement
+
+### Patent Title:
+**RAMGuard: An Intelligent Memory-Centric Threat Detection Framework**
+
+### Patent Details:
+- **Application No:** 202641022203 A  
+- **Publication Date:** 06/03/2026  
+- **Country:** India  
+
+### Contribution:
+I was part of the innovation team along with my department staff members in developing this cybersecurity-based framework. The project focuses on detecting advanced memory-based cyber threats using intelligent analysis and machine learning techniques.
+
+This achievement reflects my interest in **Cyber Security Research**, **Threat Detection**, and **Innovative Technology Development**.
+
+---
+
+## Skills Developed
+- Cyber Security Concepts  
+- Research & Innovation  
+- Technical Presentation  
+- AI Tools & No-Code Platforms  
+- SQL / Database Querying  
+- Team Collaboration  
+- Problem Solving  
+
+---
+
+## Contact
+**Name:** J. John Bendict  
+**College:** Mahendra Engineering College  
+**Department:** Cyber Security  
+
+---
+⭐ Always learning, building, and growing in the field of Cyber Security.
 
 ## 🚀 Future Goals
 
