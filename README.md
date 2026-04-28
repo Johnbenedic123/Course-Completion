@@ -1,4 +1,3 @@
-<img width="1152" height="808" alt="FLINT paper presentation(MCE)" src="https://github.com/user-attachments/assets/0b9e0da8-75c9-47ca-849d-9aa08eee6927" />
 # 🎓 Course Completion Portfolio – J. John Benedict
 
 Welcome to my **Cybersecurity and Ethical Hacking Course Completion Repository**.  
