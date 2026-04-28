@@ -1,3 +1,4 @@
+<img width="1152" height="808" alt="FLINT paper presentation(MCE)" src="https://github.com/user-attachments/assets/0b9e0da8-75c9-47ca-849d-9aa08eee6927" />
 # 🎓 Course Completion Portfolio – J. John Benedict
 
 Welcome to my **Cybersecurity and Ethical Hacking Course Completion Repository**.  
@@ -84,9 +85,10 @@ My goal is to contribute to a safer cyberspace through continuous learning and r
 **Institution:** Mahendra College of Engineering  
 **Department:** Information Technology  
 **Event:** Paper Presentation  
-**Date:** March 13, 2026  
-
+**Date:** March 13, 2026 
 Successfully participated in the National Level Technical Symposium **FLINT 2K'26** and presented my paper in the Paper Presentation event.
+<img width="1152" height="808" alt="FLINT paper presentation(MCE)" src="https://github.com/user-attachments/assets/5e1a7aaf-d1b7-4197-a9d6-f00038dfcf64" />
+
 
 ---
 
@@ -96,6 +98,8 @@ Successfully participated in the National Level Technical Symposium **FLINT 2K'2
 **Date:** February 03 – 07, 2026  
 
 Participated in **AI No Code Connect** during the National Level Sports, Techno & Cultural Fest **VARNAM'26**.
+<img width="1280" height="913" alt="ai no code connect (varanam)" src="https://github.com/user-attachments/assets/fbdb3006-1947-4d18-955e-8007c00bb197" />
+
 
 ---
 
@@ -105,6 +109,7 @@ Participated in **AI No Code Connect** during the National Level Sports, Techno 
 **Date:** February 03 – 07, 2026  
 
 Participated in **QueryVerse'26** during the National Level Sports, Techno & Cultural Fest **VARNAM'26**.
+<img width="1280" height="924" alt="query verse (varanam)" src="https://github.com/user-attachments/assets/c99a8ac6-c5a1-4d26-a226-b9dad3ad660f" />
 
 ---
 
@@ -122,6 +127,8 @@ Participated in **QueryVerse'26** during the National Level Sports, Techno & Cul
 I was part of the innovation team along with my department staff members in developing this cybersecurity-based framework. The project focuses on detecting advanced memory-based cyber threats using intelligent analysis and machine learning techniques.
 
 This achievement reflects my interest in **Cyber Security Research**, **Threat Detection**, and **Innovative Technology Development**.
+<img width="1162" height="835" alt="PATIENT(RAMGuard An Intelligent Memory-Centric Threat Detection Framework)" src="https://github.com/user-attachments/assets/71e10467-2d4a-4de0-b4bd-3a5c66505ab7" />
+
 
 ---
 
