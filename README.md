@@ -141,13 +141,6 @@ This achievement reflects my interest in **Cyber Security Research**, **Threat D
 - Problem Solving  
 
 ---
-
-## Contact
-**Name:** J. John Bendict  
-**College:** Mahendra Engineering College  
-**Department:** Cyber Security  
-
----
 ⭐ Always learning, building, and growing in the field of Cyber Security.
 
 ## 🚀 Future Goals
